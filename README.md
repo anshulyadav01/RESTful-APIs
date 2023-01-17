@@ -28,6 +28,8 @@
      nodemon app.js
      ```
 - Hitting enter will start a node server on http://localhost:3000.
+ 
+  *Note: Currently http://localhost:3000 will not display anything except `Cannot GET /` because there is not HTML included.*
 - Use Postman to *get()*, *put()*, *delete()*, *patch()*.
 - To explore the MongoDB functions click [here](https://www.mongodb.com/docs/).
 
