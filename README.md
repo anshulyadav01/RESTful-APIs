@@ -11,7 +11,7 @@
 - Open terminal in your corresponding project location, and -
 
 
-      npm i
+      npm init -y
       npm i express
       npm i mongoose
       npm i ejs
